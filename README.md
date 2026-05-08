@@ -1,4 +1,13 @@
-## Hi there 👋
+<div align="center">
+  
+  # Hello! I'm Anika, and I'm a student at UT Austin.
+  </div>
+
+Some of my interests:
+- using software (broadly) for Parkinson's Disease detection & symptom mitigation
+- machine learning (Intrinsically Motivated RL, Option Models, & Neuro-Inspired Motivations)
+- product building & e2e apps in Swift
+- **collaborating** !! feel free to contact me anika[dot]kdodd[at]utexas[dot]edu
 
 <!--
 **akrisdodd/akrisdodd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
