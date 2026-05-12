@@ -5,7 +5,7 @@
 
 Some of my interests:
 - using software (broadly) for Parkinson's Disease detection & symptom mitigation
-- machine learning (Intrinsically Motivated RL, Option Models, & Neuro-Inspired Motivations)
+- machine learning (intrinsic motivation, RL, Option Models)
 - product building & e2e apps in Swift
 - **collaborating** !! feel free to contact me anika[dot]kdodd[at]utexas[dot]edu
 
